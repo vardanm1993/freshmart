@@ -1,0 +1,15 @@
+# OS/IDE
+.idea
+.vscode
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Node
+node_modules
+dist
+
+# PHP
+/vendor
